@@ -1,0 +1,23 @@
+# React / Node
+node_modules/
+dist/
+
+# Spring Boot / Java
+target/
+*.class
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
